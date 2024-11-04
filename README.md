@@ -1,22 +1,13 @@
 # DailyFinance Web Automation using TestNG
 
 ## Scenario
-- Login as a admin to https://opensource-demo.orangehrmlive.com/
-- Go to PIM menu and create a new employee. Save the employee firstname, lastname, employeeid, username and password into JSONArray file. Generate random password which meets following criteria:
-For a strong password, please use a hard to guess combination of text with upper- and lower-case characters, symbols and numbers. Assert if employee is created successfully.
-- Now go to the dashboard again and search by the employee id to check if the employee is found
-- Now go to the Directory menu and search by employee name and check if the employee is found
-- Logout the session.
-- Now login with the newly created employee creds
-- Assert your full name is showing besides the profile icon.
-- Go to my info
-- Scroll down and select Gender and Blood Type as O+ and save it. Then logout the user.
-- Create a smoke suite configuration which will run only following features (positive cases only):
-  -	Login to admin
-  - search by the employee id if found
-  - logout admin and login to the employee id you created last
-  -	Update the blood Group as AB-
-  -	Logout the user
+- visit the site https://dailyfinance.roadtocareer.net/ . Register a new user on the website using your Gmail account. Check your Gmail inbox for a confirmation email with a "Congratulations" message. Assert that the email has been received.
+- Go to the login page on the website and click "Reset it here" You will receive a password reset link via email. Open the link and set a new password
+- Log in using the new password to confirm that the login is successful
+- Add two random items to the list and verify that both items appear on the item list.
+- Go to the user profile and update the email address to a new Gmail account.
+- Log out and then log in using the updated email. Confirm that login is successful with the new email and fails with the previous email.
+- Log out again and log in using the admin account. Verify that the newly registered user appears on the admin dashboard’s user list.
 
 ## Technology and Tool Used
 - Selenium Webdriver

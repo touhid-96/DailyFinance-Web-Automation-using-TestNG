@@ -41,19 +41,11 @@
 ### Regression Test
 https://github.com/user-attachments/assets/da680be8-2a0c-4770-9c10-cb17ba4de676
 
-
-
 ## Allure Reports
-![1 overview](https://github.com/touhid-96/OrangeHRM-Automation-Selenium-TestNG-Project/assets/29010371/0a501781-a0f5-486d-ac8a-56d9b374ec22)
+![overview](https://github.com/user-attachments/assets/b3d01e31-b21b-4af1-a67e-cc722873ce14)
 
-![2 suites](https://github.com/touhid-96/OrangeHRM-Automation-Selenium-TestNG-Project/assets/29010371/66d69fe9-7748-4f7d-b98c-b4c317304c7a)
+![2 suites](https://github.com/user-attachments/assets/e5ca48eb-894e-470f-9f24-1259ca291688)
 
-![3 graph](https://github.com/touhid-96/OrangeHRM-Automation-Selenium-TestNG-Project/assets/29010371/7dd2cb5d-2329-4ef9-a7e6-1f655684708f)
+![3 graphs](https://github.com/user-attachments/assets/1b583722-0d0c-4880-a631-581ce2253e78)
 
-![4 behaviors](https://github.com/touhid-96/OrangeHRM-Automation-Selenium-TestNG-Project/assets/29010371/97b9bd60-48f9-4e1a-bb1a-7c7ded552b1e)
-
-![5 packages](https://github.com/touhid-96/OrangeHRM-Automation-Selenium-TestNG-Project/assets/29010371/ed51faee-139a-476a-b22a-3c4e62a17307)
-
-
-## Gradle Report
-![6 gradle report](https://github.com/touhid-96/OrangeHRM-Automation-Selenium-TestNG-Project/assets/29010371/48d61c6e-b7fa-4176-83cd-a54ee706bced)
+![4 package](https://github.com/user-attachments/assets/95f08c44-ba40-45f2-9ac6-be5ab500eb70)

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name ="Dailyfinance App Automation by Rest Assured and TestNG Framework">
+    <test name="User Registration">
+        <classes>
+            <class name="TestRunners.RegisterTestRunner"></class>
+        </classes>
+    </test>
+
+    <test name="Dashboard">
+        <classes>
+            <class name="TestRunners.DashboardTestRunner"></class>
+        </classes>
+    </test>
+
+    <test name="Admin">
+        <classes>
+            <class name="TestRunners.AdminTestRunner"></class>
+        </classes>
+    </test>
+</suite>
